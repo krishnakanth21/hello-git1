@@ -1,1 +1,1 @@
-this repo has hello.java file which prints hello world
+this repo has hello.java file and has implementations of basic git commands,and brach demo
